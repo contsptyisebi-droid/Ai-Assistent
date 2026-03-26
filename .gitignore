@@ -1,0 +1,33 @@
+# Environment variables (keep secrets safe!)
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Screenshots saved by Jarvis
+screenshots/
+
+# Temporary audio files generated during speech
+*.mp3
+*.wav
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# macOS files
+.DS_Store
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/

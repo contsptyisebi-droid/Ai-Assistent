@@ -1,0 +1,14 @@
+anthropic
+edge-tts
+openai-whisper
+pyautogui
+psutil
+duckduckgo-search
+customtkinter
+python-dotenv
+requests
+pillow
+pygame
+sounddevice
+numpy
+pvporcupine
